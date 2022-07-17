@@ -1,2 +1,2 @@
 this is child branch 1
-
+new line added
